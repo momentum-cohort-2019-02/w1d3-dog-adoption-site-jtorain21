@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #093162;
+    font: white;
+    
+}
+
+#show{
+    background-color: #ECEDED;
+}
+.dog_traits {
+    background-color: #ECEDED;
+    display: flex;
+    flex-flow: row wrap;
+    margin: auto;
+}
+
+.lists {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.dogs {
+    display: flex;
+    flex-flow: row wrap;
+    margin: auto;
+}
